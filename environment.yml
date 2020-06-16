@@ -10,3 +10,4 @@ dependencies:
     - pandas
     - thinc
     - chartify
+    - lxml
