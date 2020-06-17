@@ -11,4 +11,3 @@ dependencies:
     - thinc
     - chartify
     - lxml
-    - matplotlip
